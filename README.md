@@ -7,5 +7,3 @@
 Живая версия: https://rosemarin25.github.io/paprika-barometer/
 
 Исходный код и методология — в приватном репозитории.
-
-<!-- deploy-key write test 15:00:30Z -->
